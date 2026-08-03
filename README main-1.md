@@ -94,8 +94,5 @@ Google Sheets/Apps Script is fine for classroom or small-team scale (up to a few
 
 ## Credits
 
-Original concept by Viral Science — [website](http://www.viralsciencecreativity.com) | [YouTube](https://www.youtube.com/c/viralscience). This version restructures the identification method and adds the fixes described above.
+Original concept by Viral Science — [website](http://www.viralsciencecreativity.com) . Our project restructures the identification method and adds the fixes described above.
 
-## License
-
-Add your preferred license here (e.g., MIT).
